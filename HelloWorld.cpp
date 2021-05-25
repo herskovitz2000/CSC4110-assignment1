@@ -1,5 +1,5 @@
 // Simple C++ program to display "Hello World" 
-  
+// Author: Nathan Herskovitz <nathanherskovitz@gmail.com>
 // Header file for input output functions 
 
 //Adding comments for fun and conflict
